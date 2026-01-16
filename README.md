@@ -1,6 +1,6 @@
 👋 Hello World! I'm AHMED ABDALI.
 
-👨‍💻 As a passionate PROGRAMMER, I believe that every problem has a solution waiting to be coded.
+👨‍💻 I believe that every problem has a solution waiting to be coded.
 
 🎓 I'm currently embarking on my journey as a BS SOFTWARE ENGINEERING student, where I'm honing my skills and exploring the vast world of software development.
 
